@@ -1,0 +1,2 @@
+LINK OF THE CHAT APPLICATION :
+http://chatapplication-env.eba-txdii4px.us-east-1.elasticbeanstalk.com/
